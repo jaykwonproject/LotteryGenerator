@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "simple_lottery_number_generator"
